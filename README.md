@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @p3leet
+- 👋 Hi, I’m @p3leeter
 - 👀 I’m interested in coding using python
 
 - 💞️ I’m looking to collaborate on everything
